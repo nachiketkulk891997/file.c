@@ -7,9 +7,7 @@ int main(void)
     printf("The nos are a=10 and b=45");
     swap(a,b);
     printf("nos swapped are a=%d and b=%d ",b,a);
-
-
-    return 0;
+   return 0;
 }
 void swap(int x,int y)
 {
