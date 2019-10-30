@@ -1,4 +1,3 @@
-# file.c
 #include <stdio.h>
 void swap(int ,int);
 int main(void)
