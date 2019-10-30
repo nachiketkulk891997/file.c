@@ -3,8 +3,9 @@
 void swap(int ,int);
 int main(void)
 {
-    int a,b;
-    scanf("%d %d/n",&a,&b);
+    int a=10;
+    int b=45;
+    
     swap(a,b);
     printf("nos swapped are a=%d and b=%d ",b,a);
 
